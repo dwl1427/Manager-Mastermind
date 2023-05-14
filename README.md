@@ -1,10 +1,16 @@
 # Manager-Mastermind
+Manager Mastermind is a Football Simulation Game that you can play on your computer. It is a mix of Fantasy Football and Football Manager, please enjoy playing with it.
+ 
+# Theme
+Team Theme
+League Theme
+Scientific Theme
 
 # Cards
-TOTW + POTM
-TOTS + POTS
-World Best + Ballon Dor           ---2000부터 시즌별로 베스트11---거기에 최고의 선수에 활약 덧붙이기
-Heros + Icons
+TOTW and POTM
+TOTS and POTS
+Ballon D'or and World Best           ---2000부터 시즌별로 베스트11---거기에 최고의 선수에 활약 덧붙이기
+Icons and Heros
 
 # Fixtures
 Calander
@@ -14,7 +20,7 @@ Manager Graphs (all/season)
 Player Graphs (all/season)
 
 # Team
-Plan A/B/C         Tactics
+Plan A/B/C with Tactics
 Hall of Fame
 All Players
 Youth Players
@@ -23,17 +29,14 @@ Traits
 Enforce
 
 # Transfers
-Finance 
+Financal Balance
 Buy Players
 Sell Players
 
-#Goals
+# Goals
 Trophy Cabinet
 
 # Other
-FM Style
-Fifa Gameplay
-Team Theme
-League Theme
-Scientific Graphics
 웹/앱/프로그램 3연동 시켜라!!!!!
+과거로 돌아가기
+VR

@@ -37,6 +37,6 @@ Sell Players
 Trophy Cabinet  
 
 # Other
-웹/앱/프로그램 3연동 시켜라!!!!!  
-과거로 돌아가기  
+WEB/APP/DESKTOP  
+WHAT IF 
 VR  

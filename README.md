@@ -40,3 +40,6 @@ Trophy Cabinet
 WEB/APP/DESKTOP  
 WHAT IF 
 VR  
+make it playable with graphics
+locker graphics
+1st person view
